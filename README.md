@@ -6,11 +6,11 @@ Install
 -------
 
 ```
-    %install_ext https://raw.github.com/piti118/inumpy/master/inumpy.py
+%install_ext https://raw.github.com/piti118/inumpy/master/inumpy.py
 ```
 
 Usage
 -----
 ```
-    %load_ext inumpy
+%load_ext inumpy
 ```
